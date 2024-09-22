@@ -38,7 +38,7 @@ else:
     else:
         print(f"Hello {username}, thank you for logging in again!")
 
-        # Task 4 : Checking for unique usernames
+# Task 4 : Checking for unique usernames
 
 current_users = ['john', 'jane', 'bob', 'alice', 'mike']
 new_users = ['john', 'sarah', 'emily', 'bob', 'newbie']
